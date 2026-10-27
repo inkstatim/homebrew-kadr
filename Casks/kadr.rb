@@ -1,6 +1,6 @@
 cask "kadr" do
-  version "0.1.2"
-  sha256 "6ebf3379caf6f9593d8115a92cdac3c96e2ef569b84258bb106c96fb640efc61"
+  version "0.1.3"
+  sha256 "28a6f248675d3bf50d5cb8cd83d31dc2fe5f35c4feaedf7de83b889051a88acc"
 
   url "https://github.com/inkstatim/kadr-releases/releases/download/v#{version}/Kadr-#{version}.dmg"
   name "Kadr"
