@@ -5,7 +5,7 @@ cask "kadr" do
   url "https://github.com/inkstatim/kadr-releases/releases/download/v#{version}/Kadr-#{version}.dmg"
   name "Kadr"
   desc "Screenshots, annotations, OCR and screen recording"
-  homepage "https://github.com/inkstatim/kadr-releases"
+  homepage "https://inkstatim.dev/kadr/"
 
   livecheck do
     url :url
